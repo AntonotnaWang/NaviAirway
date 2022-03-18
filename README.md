@@ -1,6 +1,8 @@
 # NaviAirway
 *NaviAirway: a Bronchiole-sensitive Deep Learning-based Airway Segmentation Pipeline for Planning of Navigation Bronchoscopy*
 
+See the [preprint](https://www.techrxiv.org/articles/preprint/NaviAirway_a_Bronchiole-sensitive_Deep_Learning-based_Airway_Segmentation_Pipeline_for_Planning_of_Navigation_Bronchoscopy/19228296) at techrxiv.
+
 The full code will be made publicly available soon.
 
 <div align="center">
