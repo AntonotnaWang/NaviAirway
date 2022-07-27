@@ -1,0 +1,16 @@
+edt
+h5py
+matplotlib
+numpy
+pandas
+scikit_image
+SimpleITK
+skimage
+pydicom
+opencv-python
+nibabel
+plotly
+pickle
+torch
+torchio
+torchvision
