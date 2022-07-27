@@ -1,5 +1,5 @@
 # NaviAirway
-
+\
 > [**NaviAirway: a Bronchiole-sensitive Deep Learning-based Airway Segmentation Pipeline**](https://arxiv.org/abs/2203.04294), ***Preliminary version presented at RSNA2021***.
 
 Airway segmentation is essential for chest CT image analysis. However, it remains a challenging task because of the intrinsic complex tree-like structure and imbalanced sizes of airway branches. Current deep learning-based methods focus on model structure design while the potential of training strategy and loss function have not been fully explored. Therefore, we present a simple yet effective airway segmentation pipeline, denoted NaviAirway, which finds finer bronchioles with a bronchiole-sensitive loss function and a human-vision-inspired iterative training strategy. Experimental results show that NaviAirway outperforms existing methods, particularly in identification of higher generation bronchioles and robustness to new CT scans. Besides, NaviAirway is general. It can be combined with different backbone models and significantly improve their performance. Moreover, we propose two new metrics (Branch Detected and Tree-length Detected) for a more comprehensive and fairer evaluation of deep learning-based airway segmentation approaches. NaviAirway can generate airway roadmap for Navigation Bronchoscopy and can also be applied to other scenarios when segmenting fine and long tubular structures in biomedical images.
@@ -63,7 +63,7 @@ The file structure should be like this
 
 - **[Dataset preparation]**
 
-    - Down load the two datasets: EXACT09 and LIDC-IDRI.
+    - Download the two datasets: EXACT09 and LIDC-IDRI.
 
     - Run ```dataset_preprocess_EXACT09.ipynb``` and ```dataset_preprocess_LIDC-IDRI.ipynb``` to preprocess the images.
 
