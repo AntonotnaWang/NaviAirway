@@ -12,9 +12,7 @@ Airway segmentation is essential for chest CT image analysis. However, it remain
 
 ## Demonstration (code, data, and instruction)
 
-[OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/wangad_connect_hku_hk/EjlGACUxa4VJmHs8BHBEEAEBDz4cy8pbj3aw_tt51uwV3w?e=Y7wwbf) password: ```2333```
-
-[Google Drive](https://drive.google.com/drive/folders/1bLHvFTUswgrNc64tQ00L_K63TzdksB5r?usp=sharing)
+[OneDrive](https://connecthkuhk-my.sharepoint.com/:f:/g/personal/wangad_connect_hku_hk/EquVeqhZkGdPoRZ6Ay0gDSgBHeaV2uP94ajR4MEj3B3fjw?e=eJgSta) password: ```2333```
 
 ## Dependencies
 
