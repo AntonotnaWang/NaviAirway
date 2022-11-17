@@ -67,7 +67,7 @@ The file structure should be like this
 
     - Run ```Pre_crop_images.ipynb``` to pre-crop the images to be samll cubes.
 
-    - Run ```Get_dataset_info.ipynb``` to generate dataset info (our iterative training strategy (training with focus on airways of low and high generations iteratively) is achieved by it).
+    - Run ```Get_dataset_info.ipynb``` to generate dataset info which are pkl files (our iterative training strategy (training with focus on airways of low and high generations iteratively) is achieved by it).
 
 - **[Training]** Run ```train.py``` or ```train_semi_supervised_learning.py``` to start training. You can change the hyperparameters. Model parameters are saved in ```checkpoint```.
 
